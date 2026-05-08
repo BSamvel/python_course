@@ -1,0 +1,201 @@
+voter_id,name,surname,birthday,vote_datetime,polling_station,voted_for
+1,Aram,Aslanyan,1964-09-03,2021-06-20 10:06:43,Ijevan #1,Civil Contract
+2,Gevorg,Ohanyan,1942-11-07,2021-06-20 11:32:38,Yerevan-Kentron #4,Civil Contract
+3,Davit,Babayan,2002-12-02,2021-06-20 11:37:17,Yerevan-Kentron #4,Armenia Alliance
+4,Davit,Ohanyan,1970-07-11,2021-06-20 11:48:21,Yerevan-Arabkir #11,Civil Contract
+5,Artur,Hakobyan,1972-03-16,2021-06-20 14:51:02,Kapan #2,Bright Armenia
+6,Artur,Hovhannisyan,1989-07-11,2021-06-20 14:56:55,Echmiadzin #1,Civil Contract
+7,Davit,Hovhannisyan,1944-02-10,2021-06-20 16:05:54,Gyumri #7,Armenia Alliance
+8,Artur,Manukyan,1980-09-04,2021-06-20 12:23:22,Gyumri #7,Armenia Alliance
+9,Marine,Tonoyan,1998-02-19,2021-06-20 14:34:46,Gyumri #7,Civil Contract
+10,Ashot,Ghazaryan,1964-03-20,,,Did Not Vote
+11,Gor,Stepanyan,1945-01-06,2021-06-20 08:20:25,Vanadzor #3,Civil Contract
+12,Levon,Vardanyan,1968-03-25,2021-06-20 13:56:58,Kapan #2,Civil Contract
+13,Vardan,Grigoryan,1962-02-15,2021-06-20 13:47:37,Abovyan #5,Armenia Alliance
+14,Astghik,Karapetyan,1952-05-29,2021-06-20 09:03:55,Yerevan-Arabkir #11,Civil Contract
+15,Nikol,Khachatryan,2001-01-18,2021-06-20 09:24:38,Kapan #2,Civil Contract
+16,Tatevik,Petrosyan,2001-01-11,2021-06-20 15:34:48,Vanadzor #3,Armenia Alliance
+17,Anna,Avetisyan,1979-01-02,2021-06-20 08:46:56,Vanadzor #3,Civil Contract
+18,Mher,Hakobyan,1996-02-05,2021-06-20 14:38:12,Yerevan-Davtashen #2,Civil Contract
+19,Armine,Khachatryan,1988-05-22,,,Did Not Vote
+20,Edgar,Stepanyan,1983-11-01,2021-06-20 18:56:53,Vanadzor #3,Civil Contract
+21,Armen,Karapetyan,1990-11-25,,,Did Not Vote
+22,Samvel,Ghukasyan,1946-03-17,,,Did Not Vote
+23,Hayk,Tonoyan,1982-08-22,,,Did Not Vote
+24,Vardan,Davtyan,1994-06-02,2021-06-20 11:34:48,Gyumri #7,Civil Contract
+25,Tamara,Tonoyan,1998-04-21,2021-06-20 17:28:07,Gyumri #7,Civil Contract
+26,David,Stepanyan,1941-11-20,2021-06-20 11:14:00,Yerevan-Arabkir #11,Armenia Alliance
+27,Sargis,Hovhannisyan,1942-10-26,,,Did Not Vote
+28,Mher,Karapetyan,1964-12-25,2021-06-20 11:08:46,Sevan #4,Armenia Alliance
+29,Ruzanna,Ghukasyan,1976-07-08,2021-06-20 09:27:22,Abovyan #5,Civil Contract
+30,Lusine,Aslanyan,1944-11-10,2021-06-20 19:06:03,Abovyan #5,Armenia Alliance
+31,Anna,Karapetyan,1957-03-10,2021-06-20 13:27:11,Vanadzor #3,Civil Contract
+32,Ruzanna,Hovhannisyan,1979-10-03,2021-06-20 17:06:03,Ijevan #1,Prosperous Armenia
+33,David,Movsisyan,1961-03-16,2021-06-20 13:13:55,Abovyan #5,Civil Contract
+34,Vahan,Ghazaryan,1940-03-11,,,Did Not Vote
+35,Lusine,Avetisyan,1977-12-13,2021-06-20 15:50:35,Kapan #2,Armenia Alliance
+36,Levon,Avetisyan,1959-07-13,,,Did Not Vote
+37,Samvel,Stepanyan,1945-02-16,2021-06-20 13:58:54,Ijevan #1,Civil Contract
+38,Armen,Davtyan,1947-03-10,,,Did Not Vote
+39,Edgar,Hovhannisyan,2000-07-29,,,Did Not Vote
+40,Anna,Vardanyan,1962-02-01,2021-06-20 09:05:26,Sevan #4,Armenia Alliance
+41,Karine,Harutyunyan,2000-01-31,2021-06-20 11:25:08,Vanadzor #3,Armenia Alliance
+42,Nairi,Movsisyan,1946-07-05,2021-06-20 14:36:06,Yerevan-Arabkir #11,Civil Contract
+43,Mher,Manukyan,1951-11-19,,,Did Not Vote
+44,Sargis,Mkrtchyan,1965-07-26,2021-06-20 16:45:19,Sevan #4,Civil Contract
+45,Gor,Asatryan,1966-11-10,,,Did Not Vote
+46,Hayk,Manukyan,1950-05-10,,,Did Not Vote
+47,Vardan,Avetisyan,1994-04-06,2021-06-20 12:43:40,Vanadzor #3,Civil Contract
+48,Karine,Sargsyan,1948-04-12,2021-06-20 16:02:00,Echmiadzin #1,Armenia Alliance
+49,Nikol,Manukyan,1954-06-30,2021-06-20 14:27:35,Yerevan-Kentron #4,Armenia Alliance
+50,David,Margaryan,1953-05-16,2021-06-20 16:37:35,Yerevan-Davtashen #2,Armenia Alliance
+51,Sona,Sargsyan,1967-08-28,2021-06-20 18:55:02,Echmiadzin #1,Civil Contract
+52,Gor,Karapetyan,1999-11-01,2021-06-20 16:56:55,Abovyan #5,Civil Contract
+53,Sargis,Khachatryan,1955-11-19,,,Did Not Vote
+54,Vahan,Aslanyan,1969-10-20,2021-06-20 13:42:55,Gyumri #7,I Have Honor Alliance
+55,Ani,Margaryan,1949-09-12,2021-06-20 09:30:14,Gyumri #7,Civil Contract
+56,Astghik,Avetisyan,1960-06-01,2021-06-20 14:25:21,Vanadzor #3,Civil Contract
+57,Arsen,Manukyan,1971-07-03,2021-06-20 12:53:34,Echmiadzin #1,Armenia Alliance
+58,Tigran,Manukyan,1956-01-08,2021-06-20 19:02:06,Sevan #4,Armenia Alliance
+59,Astghik,Aslanyan,1968-02-21,2021-06-20 19:07:24,Sevan #4,Civil Contract
+60,Vardan,Sargsyan,1979-02-13,2021-06-20 18:34:43,Gyumri #7,Civil Contract
+61,Gayane,Hovhannisyan,1999-08-04,,,Did Not Vote
+62,Nelli,Hakobyan,1966-12-10,2021-06-20 15:20:25,Vanadzor #3,Civil Contract
+63,Levon,Ohanyan,1999-08-27,,,Did Not Vote
+64,Edgar,Vardanyan,1966-12-31,2021-06-20 16:19:18,Gyumri #7,Civil Contract
+65,Diana,Kostanyan,1998-09-26,2021-06-20 13:43:13,Ijevan #1,Civil Contract
+66,Zara,Khachatryan,1999-02-09,2021-06-20 13:40:39,Echmiadzin #1,Civil Contract
+67,Arsen,Karapetyan,2000-05-11,2021-06-20 16:09:01,Yerevan-Kentron #4,Civil Contract
+68,Hovhannes,Kostanyan,1946-07-14,2021-06-20 17:36:12,Abovyan #5,Civil Contract
+69,Tamara,Karapetyan,1953-03-28,2021-06-20 08:48:55,Yerevan-Arabkir #11,Armenia Alliance
+70,Ruzanna,Khachatryan,2002-06-07,2021-06-20 09:15:58,Yerevan-Arabkir #11,Civil Contract
+71,Sona,Galstyan,1999-11-22,2021-06-20 14:20:48,Kapan #2,Civil Contract
+72,Tatevik,Galstyan,1954-04-12,2021-06-20 13:16:48,Gyumri #7,Armenia Alliance
+73,Armine,Movsisyan,1986-10-07,2021-06-20 11:28:04,Vanadzor #3,Civil Contract
+74,Vardan,Stepanyan,1968-09-06,,,Did Not Vote
+75,Hayk,Grigoryan,1960-09-29,2021-06-20 10:13:04,Abovyan #5,Civil Contract
+76,Nairi,Asatryan,1981-10-19,2021-06-20 11:26:24,Sevan #4,Civil Contract
+77,Arsen,Vardanyan,1974-02-15,2021-06-20 18:19:48,Abovyan #5,Civil Contract
+78,Tatevik,Aslanyan,1988-12-29,2021-06-20 17:31:14,Vanadzor #3,I Have Honor Alliance
+79,Hasmik,Petrosyan,1974-11-20,2021-06-20 15:25:46,Yerevan-Davtashen #2,Civil Contract
+80,Sona,Kostanyan,1987-12-02,2021-06-20 12:36:42,Yerevan-Kentron #4,Civil Contract
+81,Nikol,Ohanyan,1952-03-04,,,Did Not Vote
+82,Armen,Manukyan,1974-01-04,2021-06-20 13:21:48,Abovyan #5,Civil Contract
+83,Armine,Ohanyan,1962-08-19,2021-06-20 13:47:34,Yerevan-Kentron #4,Prosperous Armenia
+84,Ruzanna,Babayan,1946-02-26,2021-06-20 14:48:01,Gyumri #7,I Have Honor Alliance
+85,Aram,Kostanyan,1953-09-02,2021-06-20 13:07:36,Gyumri #7,Civil Contract
+86,Marine,Manukyan,1973-02-03,2021-06-20 14:47:45,Yerevan-Arabkir #11,Civil Contract
+87,Garegin,Hakobyan,1991-12-01,2021-06-20 12:43:58,Abovyan #5,Civil Contract
+88,Marine,Harutyunyan,1946-10-26,2021-06-20 16:15:06,Vanadzor #3,Armenia Alliance
+89,Gevorg,Sargsyan,1971-02-24,2021-06-20 15:04:32,Echmiadzin #1,Civil Contract
+90,Robert,Ghukasyan,1949-06-20,2021-06-20 12:57:53,Kapan #2,Civil Contract
+91,Robert,Khachatryan,1986-10-22,,,Did Not Vote
+92,Mane,Asatryan,1983-05-18,2021-06-20 16:37:17,Echmiadzin #1,Civil Contract
+93,David,Manukyan,1980-06-10,2021-06-20 13:39:42,Abovyan #5,Civil Contract
+94,Anahit,Ghukasyan,1969-02-27,2021-06-20 11:51:16,Echmiadzin #1,Civil Contract
+95,Mane,Margaryan,1964-10-13,2021-06-20 13:12:05,Gyumri #7,Armenia Alliance
+96,Hasmik,Asatryan,1961-07-23,2021-06-20 14:31:28,Yerevan-Kentron #4,Armenia Alliance
+97,Garegin,Karapetyan,1976-04-12,2021-06-20 12:37:23,Kapan #2,Armenia Alliance
+98,Gayane,Aslanyan,1989-05-18,2021-06-20 15:17:19,Vanadzor #3,Civil Contract
+99,Tigran,Aslanyan,1957-04-11,2021-06-20 15:48:44,Yerevan-Davtashen #2,Civil Contract
+100,Levon,Aslanyan,1983-06-10,2021-06-20 14:48:33,Sevan #4,Civil Contract
+101,Anna,Harutyunyan,1966-07-30,2021-06-20 10:00:45,Ijevan #1,Civil Contract
+102,Vardan,Sargsyan,1944-11-21,2021-06-20 15:08:40,Kapan #2,Armenia Alliance
+103,Aram,Vardanyan,1965-07-05,2021-06-20 13:11:03,Vanadzor #3,Civil Contract
+104,Anna,Hovhannisyan,1975-12-13,2021-06-20 14:43:03,Yerevan-Davtashen #2,Civil Contract
+105,Gevorg,Avetisyan,1947-08-23,,,Did Not Vote
+106,Narek,Movsisyan,1977-05-03,2021-06-20 16:14:49,Ijevan #1,Armenia Alliance
+107,Lusine,Galstyan,1966-09-04,,,Did Not Vote
+108,Anush,Vardanyan,1995-09-18,2021-06-20 18:06:48,Gyumri #7,Civil Contract
+109,Vardan,Tonoyan,1947-04-14,2021-06-20 10:04:10,Yerevan-Kentron #4,Civil Contract
+110,Lusine,Margaryan,1993-04-10,2021-06-20 08:18:45,Vanadzor #3,Civil Contract
+111,Mariam,Tonoyan,1960-12-09,,,Did Not Vote
+112,Robert,Hakobyan,1988-11-08,2021-06-20 10:17:52,Yerevan-Davtashen #2,Civil Contract
+113,Armen,Khachatryan,1967-08-06,2021-06-20 16:58:18,Kapan #2,Armenia Alliance
+114,Ashot,Margaryan,1967-04-13,2021-06-20 18:32:34,Kapan #2,Armenia Alliance
+115,Mariam,Kostanyan,1943-07-30,,,Did Not Vote
+116,Mane,Manukyan,1942-04-27,2021-06-20 18:53:55,Sevan #4,Civil Contract
+117,Arsen,Tonoyan,1964-03-06,2021-06-20 16:11:30,Ijevan #1,Armenia Alliance
+118,Karine,Khachatryan,1992-07-06,2021-06-20 16:05:30,Echmiadzin #1,Civil Contract
+119,Nairi,Stepanyan,2000-02-13,2021-06-20 10:26:44,Kapan #2,Civil Contract
+120,Nelli,Ghazaryan,1989-05-08,2021-06-20 09:16:20,Yerevan-Arabkir #11,Civil Contract
+121,Nune,Petrosyan,1999-01-01,,,Did Not Vote
+122,Gayane,Sargsyan,1956-10-29,2021-06-20 14:31:40,Kapan #2,Civil Contract
+123,Levon,Manukyan,1989-04-09,2021-06-20 11:56:44,Kapan #2,Civil Contract
+124,Aram,Babayan,1994-08-16,2021-06-20 15:19:35,Yerevan-Kentron #4,I Have Honor Alliance
+125,Mariam,Karapetyan,1950-03-06,2021-06-20 10:53:09,Kapan #2,Civil Contract
+126,Nune,Margaryan,1964-07-12,2021-06-20 13:30:15,Kapan #2,Civil Contract
+127,Artur,Harutyunyan,1993-10-09,2021-06-20 17:55:04,Vanadzor #3,Civil Contract
+128,Nairi,Davtyan,1963-12-20,2021-06-20 11:19:53,Sevan #4,Prosperous Armenia
+129,Sona,Galstyan,1988-04-26,2021-06-20 12:48:34,Abovyan #5,Civil Contract
+130,Nairi,Harutyunyan,2002-07-29,2021-06-20 12:54:49,Abovyan #5,Civil Contract
+131,Suren,Aslanyan,1982-06-07,2021-06-20 16:24:42,Yerevan-Davtashen #2,Armenia Alliance
+132,Lilit,Grigoryan,1985-01-23,,,Did Not Vote
+133,Anna,Galstyan,1948-12-11,2021-06-20 13:46:09,Abovyan #5,Civil Contract
+134,David,Ghukasyan,1963-10-11,2021-06-20 15:41:05,Echmiadzin #1,Civil Contract
+135,Nairi,Babayan,1983-10-11,,,Did Not Vote
+136,Edgar,Hovhannisyan,1961-01-22,2021-06-20 18:14:47,Yerevan-Arabkir #11,Armenia Alliance
+137,Anna,Movsisyan,1996-11-08,2021-06-20 09:10:44,Vanadzor #3,Armenia Alliance
+138,Armen,Stepanyan,1945-01-12,2021-06-20 12:09:15,Ijevan #1,Civil Contract
+139,Diana,Tonoyan,1956-02-26,2021-06-20 09:55:24,Sevan #4,Civil Contract
+140,Hovhannes,Vardanyan,1952-11-02,2021-06-20 14:29:16,Yerevan-Kentron #4,Civil Contract
+141,Anush,Tonoyan,1989-01-13,2021-06-20 13:22:37,Vanadzor #3,Civil Contract
+142,Marine,Manukyan,1980-12-25,2021-06-20 11:24:54,Kapan #2,Bright Armenia
+143,Sargis,Ghazaryan,1991-04-23,2021-06-20 12:44:18,Yerevan-Kentron #4,Civil Contract
+144,Karine,Petrosyan,1990-10-09,,,Did Not Vote
+145,Edgar,Aslanyan,1984-07-24,2021-06-20 17:49:51,Gyumri #7,Prosperous Armenia
+146,Ruzanna,Babayan,1957-01-21,2021-06-20 15:46:49,Yerevan-Davtashen #2,Armenia Alliance
+147,Nikol,Babayan,1943-07-15,2021-06-20 13:37:23,Yerevan-Davtashen #2,Civil Contract
+148,Garegin,Stepanyan,1977-04-11,2021-06-20 10:34:56,Echmiadzin #1,Civil Contract
+149,Ani,Manukyan,1983-03-25,,,Did Not Vote
+150,Zara,Stepanyan,1950-05-01,2021-06-20 09:48:14,Abovyan #5,Civil Contract
+151,Mariam,Ghazaryan,1941-04-01,2021-06-20 10:23:43,Vanadzor #3,Civil Contract
+152,Syuzanna,Mkrtchyan,1949-09-20,2021-06-20 13:39:56,Ijevan #1,Armenia Alliance
+153,Mane,Karapetyan,1998-02-07,2021-06-20 16:58:44,Vanadzor #3,Civil Contract
+154,Anna,Grigoryan,1944-01-25,,,Did Not Vote
+155,Hasmik,Hakobyan,1948-09-19,2021-06-20 13:24:29,Echmiadzin #1,Civil Contract
+156,Diana,Aslanyan,1953-11-11,,,Did Not Vote
+157,Hovhannes,Kostanyan,1976-08-12,,,Did Not Vote
+158,Lilit,Margaryan,1973-03-29,2021-06-20 13:15:54,Echmiadzin #1,Civil Contract
+159,Gor,Mkrtchyan,1988-11-05,,,Did Not Vote
+160,Lilit,Ghazaryan,1964-10-01,2021-06-20 10:54:52,Kapan #2,Civil Contract
+161,Gor,Harutyunyan,1997-07-27,2021-06-20 19:03:50,Echmiadzin #1,Armenia Alliance
+162,Hayk,Vardanyan,1958-05-30,2021-06-20 16:13:37,Gyumri #7,Civil Contract
+163,Suren,Movsisyan,1953-03-28,2021-06-20 14:17:54,Yerevan-Davtashen #2,I Have Honor Alliance
+164,Narek,Manukyan,1955-08-27,2021-06-20 17:08:00,Echmiadzin #1,Civil Contract
+165,Gevorg,Stepanyan,1941-06-01,2021-06-20 09:47:26,Ijevan #1,Civil Contract
+166,Samvel,Hovhannisyan,1982-09-22,2021-06-20 12:37:06,Kapan #2,Civil Contract
+167,Edgar,Sargsyan,1999-02-10,2021-06-20 13:01:03,Kapan #2,Civil Contract
+168,Gayane,Tonoyan,1949-09-07,2021-06-20 17:04:57,Yerevan-Arabkir #11,Civil Contract
+169,Mane,Grigoryan,1945-11-22,2021-06-20 14:37:35,Echmiadzin #1,Civil Contract
+170,Mane,Davtyan,1966-06-16,2021-06-20 14:06:50,Yerevan-Arabkir #11,Civil Contract
+171,Robert,Galstyan,1960-07-01,2021-06-20 16:25:26,Yerevan-Arabkir #11,Civil Contract
+172,Gayane,Stepanyan,1999-09-02,2021-06-20 18:43:59,Kapan #2,Civil Contract
+173,David,Hovhannisyan,1948-05-12,2021-06-20 15:23:51,Yerevan-Davtashen #2,Civil Contract
+174,Gevorg,Asatryan,1990-05-23,2021-06-20 10:22:55,Abovyan #5,Civil Contract
+175,Garegin,Kostanyan,1968-01-12,2021-06-20 14:13:09,Kapan #2,Civil Contract
+176,Tigran,Mkrtchyan,1989-11-26,2021-06-20 15:36:14,Abovyan #5,Civil Contract
+177,Edgar,Tonoyan,2002-03-19,2021-06-20 10:44:48,Vanadzor #3,Civil Contract
+178,Astghik,Petrosyan,1956-04-10,,,Did Not Vote
+179,Mariam,Grigoryan,1996-10-20,,,Did Not Vote
+180,Samvel,Davtyan,1959-04-20,2021-06-20 13:10:23,Vanadzor #3,Civil Contract
+181,Armine,Vardanyan,1993-06-28,2021-06-20 09:10:48,Sevan #4,Civil Contract
+182,Gor,Hovhannisyan,1964-05-30,2021-06-20 13:38:28,Abovyan #5,Civil Contract
+183,Nare,Movsisyan,1985-12-18,2021-06-20 13:18:43,Sevan #4,Civil Contract
+184,Nune,Tonoyan,1967-09-02,2021-06-20 12:38:03,Yerevan-Kentron #4,Civil Contract
+185,Garegin,Harutyunyan,1952-04-23,2021-06-20 12:07:00,Kapan #2,I Have Honor Alliance
+186,Ani,Grigoryan,1974-02-09,2021-06-20 11:35:53,Echmiadzin #1,Civil Contract
+187,Artur,Aslanyan,1943-10-18,2021-06-20 13:04:55,Echmiadzin #1,Civil Contract
+188,Diana,Ghazaryan,1997-06-06,2021-06-20 10:01:20,Yerevan-Davtashen #2,Civil Contract
+189,Marine,Mkrtchyan,1947-11-27,2021-06-20 10:27:37,Abovyan #5,Civil Contract
+190,Artur,Avetisyan,1970-06-17,2021-06-20 16:04:32,Yerevan-Arabkir #11,Civil Contract
+191,Arsen,Mkrtchyan,1971-07-01,2021-06-20 16:52:09,Gyumri #7,Armenia Alliance
+192,Hayk,Manukyan,1957-09-12,2021-06-20 10:48:41,Yerevan-Arabkir #11,Civil Contract
+193,Arsen,Babayan,1984-04-30,2021-06-20 14:37:28,Sevan #4,Civil Contract
+194,Syuzanna,Stepanyan,1953-07-17,2021-06-20 13:40:19,Vanadzor #3,Civil Contract
+195,Karen,Davtyan,1946-08-28,2021-06-20 13:03:23,Vanadzor #3,Civil Contract
+196,Nikol,Hovhannisyan,1995-03-05,2021-06-20 12:37:35,Yerevan-Kentron #4,Armenia Alliance
+197,Diana,Babayan,1956-11-20,2021-06-20 13:09:03,Kapan #2,Civil Contract
+198,Suren,Margaryan,1947-07-26,2021-06-20 10:15:45,Kapan #2,Civil Contract
+199,Nune,Davtyan,1994-09-16,2021-06-20 12:18:24,Abovyan #5,Civil Contract
+200,Nelli,Kostanyan,1944-09-11,2021-06-20 14:04:21,Yerevan-Arabkir #11,I Have Honor Alliance
